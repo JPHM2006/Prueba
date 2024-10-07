@@ -13,6 +13,8 @@ La bioluminiscencia se encuentra en diversos organismos, incluidos:
 ##### Ejemplos notables:
 - El pez linterna: Este pez profundo tiene órganos bioluminiscentes que le ayudan a atraer a su presa en la oscuridad del océano.
 - Las algas dinoflageladas: Cuando se agitan, liberan luz, creando un fenómeno conocido como "mar de estrellas".
+  ![image](https://github.com/user-attachments/assets/95233898-6829-48ef-9c9a-a65fbfe6838f)
+
 #####  Mecanismos de Producción de Luz
 La bioluminiscencia se produce a través de una reacción química que generalmente involucra:
 - Luciferina: Es el sustrato que se oxida para producir luz. La estructura química de la luciferina varía entre diferentes organismos, lo que explica las diferencias en el color de la luz emitida.
@@ -37,3 +39,6 @@ La bioluminiscencia ha encontrado aplicaciones en diversas áreas:
 - Iluminación sostenible: Investigadores están explorando la posibilidad de utilizar sistemas bioluminiscentes para crear fuentes de luz ecológicas.
 ##### Investigación Continua
 La bioluminiscencia sigue siendo un campo de investigación activo. Los científicos están interesados en comprender cómo evolucionaron estos sistemas de luz, cómo se regulan y cómo podrían aplicarse en nuevas tecnologías.
+![image](https://github.com/user-attachments/assets/8e685973-157d-4ccb-8232-40757290bbd6) ![image](https://github.com/user-attachments/assets/679f0a50-32f8-42c8-a4dd-20f11da449ed) ![image](https://github.com/user-attachments/assets/f6784900-22b4-4c32-851d-94f08e27a646)
+
+
