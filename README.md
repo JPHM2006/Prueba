@@ -1,7 +1,7 @@
 
 # Bioluminiscencia
 Definición: La bioluminiscencia es la capacidad de ciertos organismos para emitir luz. Este fenómeno se debe a reacciones químicas que ocurren en sus cuerpos, generalmente mediante la acción de una proteína llamada luciferina y una enzima llamada luciferasa.
-##### Organismos bioluminiscentes: 
+# Organismos bioluminiscentes: 
 La bioluminiscencia se encuentra en diversos organismos, incluidos:
 - Plantas: Algunas especies de algas, como las dinoflageladas, emiten luz, creando efectos espectaculares en el mar durante la noche.
 - Animales marinos: Muchos habitantes del océano, como medusas, peces abisales, y calamares, son bioluminiscentes.
